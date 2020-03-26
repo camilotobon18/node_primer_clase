@@ -1,0 +1,26 @@
+{
+  "name": "exampleonenpm",
+  "version": "1.0.0",
+  "description": "example project node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deci": "cowsay buenas noches"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilotobon18/primernode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "camilotobon18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilotobon18/primernode/issues"
+  },
+  "homepage": "https://github.com/camilotobon18/primernode#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
