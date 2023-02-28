@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/camilotobon18/primernode#readme",
   "dependencies": {
-    "cowsay": "^1.4.0"
+    "cowsay": "^1.5.0"
   }
 }
